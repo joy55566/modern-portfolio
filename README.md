@@ -1,15 +1,30 @@
-> ## Responsive Portfolio Website Mrinmoy
+<h2 align="center">
+  Wyvern Team Portfolio<br/>
+  <a href="https://wyvernteam.com" target="_blank">Live Demo</a>
+</h2>
 
+![](https://raw.githubusercontent.com/GamerRaven/Wyvern-Team-Portfolio/main/README/desktop.png)
 
-- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a light and dark mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
--  Thank You for visiting😀
+<div align="center">
+<img src="https://raw.githubusercontent.com/GamerRaven/Wyvern-Team-Portfolio/main/README/tablet-view.png"  width="40%">
+</div>
 
-> ## Preview:
-![Preview.png](https://github.com/MRINMOY662/Modern-Portfolio-Website-Template/blob/main/preview.png)
+## Features
+- Fully Responsive 
+- Multi-Page Templates
+- Easily Customizable
+- Fast Performance
+- Modern Design
 
+## Installation 
+Download the files and run the following commands.
+```bash
+cd Wyvern-Team-Portfolio-main #You can rename the folder
+npm install
+npm run dev
+```
 
+## Extra
+Feel free to post any suggestion / issue in the Issues tab
 
+If you like the project, please leave a ⭐ :) Thanks!
